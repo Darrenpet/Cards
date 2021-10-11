@@ -5,6 +5,7 @@
 
 body {
   font-family: "Times New Roman", Times, serif;
+  color: white;
 }
 
 .main {
@@ -68,7 +69,7 @@ button {
   padding: 60px;
   text-align: center;
   background-color: #09283454;
-  color: rgb(16, 0, 241);
+  color: rgb(255, 255, 255);
 }
 
 body,
